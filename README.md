@@ -1,1 +1,1 @@
-After cloning and installing all the npm dependencies, simply run `npm start`.
+After cloning, simply run `npm start`.
